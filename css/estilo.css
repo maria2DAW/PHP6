@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+form{
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;    
+}
+
+span{
+    color: #F00;
+    font-size: 2em;
+}
+
